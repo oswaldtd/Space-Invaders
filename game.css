@@ -10,12 +10,19 @@ body{
 header{
   text-align: center;
   color: #06FF00;
+  font-family: 'Inconsolata', ;
+  margin: 25px 0;
 }
 
 .directions {
   text-align: center;
   color: #06FF00;
+  font-family: 'Inconsolata', ;
+  line-height: 25px;
 }
 canvas {
   background-color: #06FF00;
+  margin-top: 50px;
+  position: relative;
+  left: 425px;
 }
